@@ -1,0 +1,3 @@
+# SFSymbolsUmbrella
+
+Wrapper для SFSafeSymbols.
